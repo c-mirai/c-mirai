@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @c-mirai
+- 👋 Hi, I’m @featherelle
 - 👀 I’m interested in making fun things and optimizing stuff
 - 🌱 I’m currently working on my career as a freelance programmer!
 - 📫 You can reach me at feather@feather-elle.com
